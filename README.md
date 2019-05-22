@@ -1,5 +1,13 @@
 # Using Blockchain to Track Fitness Rewards
 
+# WARNING: This repository is no longer maintained :warning:
+
+> This repository, which contains assets to run a Hyperledger Composer application,
+is not being actively maintained due to a shift to focus on Hyperledger Fabric.
+This repository will not be updated. The repository will be kept available 
+in read-only mode. Refer to https://github.com/IBM/customer-loyalty-program-hyperledger-fabric-VSCode 
+for a similar example.
+
 This is a sample web application that uses a Hyperledger Fabric blockchain to track and trace fitness rewards.
 
 One of the biggest challenges Fitness Clubs face is maintaining members. It is always cheaper to keep a member than attract new members. To retain members, some clubs will offer loyalty programs, but oftentimes, those are ineffective because they may provide future free months or potentially offer a discount to friends and family. Sometimes, the program only rewards members when they refer friends to the club.
